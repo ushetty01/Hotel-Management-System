@@ -46,19 +46,19 @@ src/
 
 ### Login
 
-![Login](screenshots/login.png)
+![Login](screenshots/Login.png)
 
 ---
 
 ### Admin Dashboard
 
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](screenshots/Admin.png)
 
 ---
 
 ### Receptionist Dashboard
 
-![Reception Dashboard](screenshots/reception-dashboard.png)
+![Reception Dashboard](screenshots/Reception.png)
 
 ---
 
